@@ -66,7 +66,7 @@ class Server extends Thread {
     }
 }
 
-public class thread2{
+public class multiThread{
     public static void main(String[] args) throws InterruptedException {
 
         Scanner sc = new Scanner(System.in);
