@@ -279,7 +279,7 @@ class CreditCardWithdraw extends Withdraw {
 
 
 // Main class to demonstrate banking system
-public class Main {
+public class bankingSystem {
     public static void main(String[] args) {
         // Create Bank
         Bank bank = new Bank("MyBank");
